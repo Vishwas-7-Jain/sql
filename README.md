@@ -30,7 +30,7 @@ The dataset cc_transactions contains the following columns:
 
 ⸻
 
-##📊 Key Analyses & Insights
+## 📊 Key Analyses & Insights
 
 ### 1. Top 5 Cities by Spend Contribution
 
